@@ -23,7 +23,7 @@
 
 - <a href="https://github.com/Alllex202/asterisk_setup#readme">Инструкция по настройке сервера Asterisk</a>
 - <a href="https://github.com/Sw24sX/Telephony">Сервер</a>
-- <a href="https://github.com/Alllex202/telephony-react">Web-приложение</a>
+- <a href="https://github.com/Alllex202/telephony-react/tree/dev">Web-приложение</a>
 - <a href="https://github.com/dekabrsky/ITalks">Мобильное приложение</a>
 
 ---
